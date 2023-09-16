@@ -90,29 +90,29 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-### Profit Prediction Graph
+#### Profit Prediction Graph
 
 ![Screenshot 2023-09-16 201723](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/bdfed25f-f9de-4610-b416-91d57108ca01)
 
 ![Screenshot 2023-09-16 201958](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/1e13149e-9075-4760-ae5b-222d826f8e2f)
 
-### Compute Cost Value
+#### Compute Cost Value
 
 ![Screenshot 2023-09-16 201911](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/c5b67543-f5f4-4b8d-81cb-3c8d9b004ed1)
 
-### h(x) Value
+#### h(x) Value
 
 ![Screenshot 2023-09-16 201924](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/4df03a5c-f0cd-46e5-9972-a3828b17db36)
 
-### Cost function using Gradient Descent Graph
+#### Cost function using Gradient Descent Graph
 
 ![Screenshot 2023-09-16 201941](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/7413a196-1aa7-42b2-b44f-5f8660011a33)
 
-### Profit for the Population 35,000
+#### Profit for the Population 35,000
 
 ![Screenshot 2023-09-16 202019](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/46ee0673-8dff-40fb-9509-eba77f5bd6cd)
 
-### Profit for the Population 70,000
+#### Profit for the Population 70,000
 
 ![Screenshot 2023-09-16 202028](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/ba7a740c-90e9-4460-ac73-eee452c92f0b)
 
