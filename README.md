@@ -20,8 +20,6 @@ Program to implement the linear regression using gradient descent.
 Developed by: S.Shanmathi
 RegisterNumber:  212222100049
 */
-```
-```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -88,12 +86,9 @@ print("For population = 35,000 ,we predict a profit of $"+str(round(predict1,0))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
-
 ## Output:
 #### Profit Prediction Graph
-
 ![Screenshot 2023-09-16 201723](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/bdfed25f-f9de-4610-b416-91d57108ca01)
-
 ![Screenshot 2023-09-16 201958](https://github.com/ShanmathiShanmugam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121243595/1e13149e-9075-4760-ae5b-222d826f8e2f)
 
 #### Compute Cost Value
