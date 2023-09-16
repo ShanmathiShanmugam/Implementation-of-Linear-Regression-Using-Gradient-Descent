@@ -23,7 +23,6 @@ RegisterNumber:  212222100049
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
 data=pd.read_csv("/content/ex1.txt", header = None)
 
 plt.scatter(data[0],data[1])
@@ -49,7 +48,6 @@ computeCost(X,y,theta)
 def gradientDescent(X,y,theta,alpha,num_iters):
   m=len(y)
   J_history=[]
-
   for i in range(num_iters):
     predictions=X.dot(theta)
     error=np.dot(X.transpose(),(predictions-y))
